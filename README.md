@@ -1,6 +1,9 @@
 # hello-world
 
 Hello world new project template.
+```bash
+node server.js
+```
 
 ```js
 cc.loader.load(
